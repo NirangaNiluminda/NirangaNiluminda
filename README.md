@@ -12,8 +12,6 @@
 <hr width="36%" >
 
 
-
-<br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
