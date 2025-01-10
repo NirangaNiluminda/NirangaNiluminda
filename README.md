@@ -1,4 +1,7 @@
 <h1 align="center"> I'm Niranga niluminda</h1>
+<h3 align="center">Full Stack Developer with a Passion for Electronics and Hardware Design</h3>
+<p align="center">Deeply interested in HDL languages and exploring the intersection of software and hardware development.</p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **WEB Development Full-Stack**
