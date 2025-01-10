@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Dhananjaya</h1>
+<h1 align="center"> I'm Niranga niluminda</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **WEB Development Full-Stack**
