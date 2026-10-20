@@ -28,4 +28,4 @@ BSc (Hons) Computer Engineering, University of Ruhuna (2026, results pending) ·
 
 #### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/niranganiluminda) · [Medium](https://medium.com/@niranganiluminda) · niranganiluminda@gmail.com
+🌐 [Portfolio](https://niranganiluminda.github.io) · [LinkedIn](https://linkedin.com/in/niranganiluminda) · [Medium](https://medium.com/@niranganiluminda) · niranganiluminda@gmail.com
