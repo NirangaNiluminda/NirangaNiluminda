@@ -3,7 +3,7 @@
 **Software engineer building secure, distributed systems** — event-driven backends, data platforms,
 and security research spanning post-quantum cryptography, blockchain and graph neural networks.
 
-BSc (Hons) Computer Engineering, University of Ruhuna (2026, results pending) · Galle, Sri Lanka<br>
+BSc (Hons) Computer Engineering, University of Ruhuna (2026, results pending) · Ratnapura, Sri Lanka<br>
 **Open to software engineering and DevOps roles — available immediately.**
 
 ---
